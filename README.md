@@ -1,2 +1,35 @@
-# eloquentJavaScript
-Learning JavaScript with 'Eloquent JavaScript 2nd Edition'
+# Learning JavaScript
+## Eloquent JavaScript, 2nd Edition
+
+INTRODUCTION | DONE<br>
+
+(Part 1: Language)<br>
+1. Values, Typs, and Operators<br>
+2. Program Structure<br>
+3. Functions<br>
+4. Data Structures: Objects and Arrays<br>
+5. Higher-order Functions<br>
+6. The Secret Life of Objects<br>
+7. Project: Electronic Life<br>
+8. Bugs and Error Handling<br>
+9. Regular Expressions<br>
+10. Modules<br>
+11. Project: A Programming Language<br>
+
+(Part 2: Browser)<br>
+12. JavaScript and the Browser<br>
+13. The Document Object Model<br>
+14. Handling Events<br>
+15. Project: A platform Game<br>
+16. Drawing on Canvas<br>
+17. HTTP<br>
+18. Forms and Form Field<br>
+19. Project: A Paint Program<br>
+
+(Part 3: Node)<br>
+20. Node.js<br>
+21. Project: Skill-Sharing Website<br>
+
+## Updates
+### 10/29/2015
+Finished Introduction
