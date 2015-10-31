@@ -35,4 +35,4 @@ INTRODUCTION | DONE<br>
 Finished Introduction
 
 ### 10/30/2015
-Finished Chapter 1. Values, Typs, and Operators
+Finished Chapter 1. Values, Types, and Operators
