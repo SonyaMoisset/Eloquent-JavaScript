@@ -4,8 +4,8 @@
 INTRODUCTION | DONE<br>
 
 (Part 1: Language)<br>
-1. Values, Typs, and Operators | DONE<br>
-2. Program Structure<br>
+1. Values, Types, and Operators | DONE<br>
+2. Program Structure | DONE<br>
 3. Functions<br>
 4. Data Structures: Objects and Arrays<br>
 5. Higher-order Functions<br>
@@ -36,3 +36,7 @@ Finished Introduction
 
 ### 10/30/2015
 Finished Chapter 1. Values, Types, and Operators
+
+### 11/01/2015
+Finished Chapter 2. Program Structure<br>
+Uploaded Chapter 2 Exercises<br>
