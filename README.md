@@ -7,7 +7,7 @@ INTRODUCTION | DONE<br>
 1. Values, Types, and Operators | DONE<br>
 2. Program Structure | DONE<br>
 3. Functions | DONE<br>
-4. Data Structures: Objects and Arrays<br>
+4. Data Structures: Objects and Arrays | DONE<br>
 5. Higher-order Functions<br>
 6. The Secret Life of Objects<br>
 7. Project: Electronic Life<br>
@@ -44,3 +44,7 @@ Uploaded Chapter 2 Exercises<br>
 ### 11/02/2015
 Finished Chapter 3. Program Structure<br>
 Uploaded Chapter 3 Exercises<br>
+
+### 11/04/2015
+Finished Chapter 4. Program Structure<br>
+Uploaded Chapter 4 Exercises<br>
